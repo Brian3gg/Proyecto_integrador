@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
+int a;
 main(){
-
-cout<<"Hola mundo";
+cin>>a;
+cout<<a;
 return 0;
 }
